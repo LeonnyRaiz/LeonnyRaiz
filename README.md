@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo sobre: **Python e Machine Learning**
 
 - 👨‍💻Todos os meus projetos estão disponíveis em : [https://www.kaggle.com/leonnyraiz](https://www.kaggle.com/leonnyraiz)
-- 💻Meu portifólio está disponíveis em : https://www.datascienceportfol.io/leonny
+- 💻Meu portifólio está disponível em : https://www.datascienceportfol.io/leonny
 - 💬 Pergunte-me sobre **Python, SQL, Pandas, Análise de Dados**
 
 - 📫 Como chegar até mim **leonnyraiz@gmail.com**
